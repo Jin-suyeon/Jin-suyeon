@@ -2,4 +2,4 @@
 
 <br />
 
-![suyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jin-suyeon&show_icons=true&theme=dracula)
+![suyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jin-suyeon&show_icons=true)
